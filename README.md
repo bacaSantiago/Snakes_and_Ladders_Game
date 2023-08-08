@@ -1,4 +1,4 @@
-# C++ Snakes and Ladders Game (Version 2)
+# C++ Snakes and Ladders Game
 
 Author: Santiago Baca
 
